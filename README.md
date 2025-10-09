@@ -54,7 +54,7 @@ Before running the project, make sure the model is placed in the following direc
 * **LLM Model** for `llama-setup/models`: [Download on Google Drive](https://drive.google.com/file/d/1s0heZxDeNMjEMmox8Kr996BDyLFTFFxb/view?usp=drive_link)
 * **Fallacy Detection Model** for `analytical-setup/fallacy_detector_model`: [Download on Google Drive](https://drive.google.com/file/d/1GuTuHzaYnP82evxqF-kUOLq9xfLIDHj1/view?usp=sharing)
 
-Please extract the model file to the appropriate directory after downloading it.
+Please extract the model file to the appropriate directory after downloading it. 
 
 ## How to Run
 
@@ -95,3 +95,4 @@ npm start
 MIT License
 
 Translated with DeepL.com (free version)
+
